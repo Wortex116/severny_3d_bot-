@@ -61,7 +61,7 @@ DATABASE_URL = os.getenv('DATABASE_URL')
 # Обязательные каналы для подписки
 REQUIRED_CHANNELS = [
     {'id': -1003668283208, 'link': 'https://t.me/ciorsa', 'name': 'ciorsa'},
-    {'id': -1003897766795, 'link': 'https://t.me/severny_conf', 'name': 'severny_conf'},
+ 
 ]
 
 # Поддержка
